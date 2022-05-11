@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jar_files/derbyclient-10.8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/Jose Urrego/14. Portafolio/bank_app/derbyclient-10.8.3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
